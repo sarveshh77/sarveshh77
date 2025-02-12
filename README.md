@@ -57,7 +57,7 @@
 ---
 
 ## 🎵 Now Playing  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default)  
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Sarveshh.999&cover_image=true&theme=default)  
 
 ---
 
