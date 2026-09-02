@@ -4,12 +4,12 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Sarvesh+Warule+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full+Stack+Developer;Fine-Tuning+LLMs+for+Real-World+Systems+%F0%9F%A4%96;Published+IEEE+Author+%F0%9F%93%84;Open+for+Collaborations!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Sarvesh+Warule+%F0%9F%91%8B;AI+Engineer+%7C+GenAI+%2F+LLMs+%F0%9F%A4%96;Java+%7C+Python+%7C+SQL+%F0%9F%92%BB;Fine-Tuning+LLMs+for+Real-World+Systems;Published+IEEE+Author+%F0%9F%93%84)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=LLMs+%2B+RAG+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Full-Stack+Dev+%E2%9A%A1;AI+for+Hardware+%2B+Healthcare+%F0%9F%8F%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=GenAI+%2B+RAG+%F0%9F%A4%96;LLMs+%2B+Prompt+Engineering+%F0%9F%A7%A0;Java+%2F+Python+%2F+SQL+%E2%9A%A1;Full-Stack+Dev+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -254,7 +254,7 @@ Analyzes patient-reported symptoms, assigns severity levels, and routes patients
 <br/>
 <sub>2026 International Conference on Emerging Innovations (ICEI), IEEE, 2026</sub>
 <br/>
-<sub>DOI: 10.1109/ICEI65890.2026.11447923</sub>
+<sub>DOI: <a href="https://doi.org/10.1109/ICEI65890.2026.11447923">10.1109/ICEI65890.2026.11447923</a></sub>
 </td>
 </tr>
 </table>
@@ -262,41 +262,6 @@ Analyzes patient-reported symptoms, assigns severity levels, and routes patients
 <br/>
 
 🎓 Multiple certifications in Machine Learning, Web Development, and DBMS
-
-### 📊 Snapshot
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/emoji/96/000000/graduation-cap-emoji.png" width="50"/>
-<br/>
-<b>8.94</b>
-<br/>
-<sub>CPI @ VIIT Pune</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/emoji/96/000000/rocket-emji.png" width="50"/>
-<br/>
-<b>10+</b>
-<br/>
-<sub>Live Services Deployed</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/emoji/96/000000/chart-increasing-emoji.png" width="50"/>
-<br/>
-<b>75%</b>
-<br/>
-<sub>Latency Reduction Shipped</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/emoji/96/000000/laptop-emoji.png" width="50"/>
-<br/>
-<b>98.5%</b>
-<br/>
-<sub>CAPTCHA Solver Accuracy</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
